@@ -1,23 +1,26 @@
 {
-  "name": "On9-Accenture-S7-API-GET",
+  "name": "on9-accenture-s7-api-get",
   "version": "1.0.0",
-  "description": "",
+  "description": "O HTTP desempenha um papel crucial no funcionamento da web e na relação cliente-servidor.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reprograma/On9-Accenture-S7-API-GET.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "aline-mendes",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/reprograma/On9-Accenture-S7-API-GET/issues"
   },
   "homepage": "https://github.com/reprograma/On9-Accenture-S7-API-GET#readme",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {}
 }

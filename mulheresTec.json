@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1, 
+      "nome": "NANA", 
+      "descricao": "Jornalista e escreve sobre violência contra a mulher e feminismo em seu blog no Estadão. É autora de “Ao Redor", 
+      "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      
+    },
+    {
+      "id": 2, 
+      "nome": "DOROTHY JOHNSON VAUGHAN", 
+      "descricao": "Matemática e ingressou na NACA, agência que viria a se tornar a NASA, em 1943. Especializou-se em computação e seis anos depois chefiou um grupo composto somente por mulheres afro-americanas formadas em matemática. Dominava computação eletrônica, programação e o processo operacional da primeira máquina IBM usada pelo órgao governamental.", 
+      "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      
+    },
+    {
+      "id": 3, 
+      "nome": "HEDY LAMARR", 
+      "descricao": "Atriz e inventora A sua mais significativa contribuição tecnológica deu-se durante a Segunda Guerra Mundial, tendo sido a sua co-invenção, juntamente com o compositor George Antheil, de um sistema de comunicações para as Forças Armadas dos Estados Unidos que serviu de base para a atual telefonia celular.", 
+      "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      
+    },
+    {
+      "id": 4, 
+      "nome": "JOAN CLARKE", 
+      "descricao": "Criptoanalista e numismata, mais conhecida pelo seu trabalho como decodificadora de mensagens nazistas durante a II Guerra Mundial que possibilitou salvar inúmeras vidas. ", 
+      "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      
+    },
+    {
+        "id": 5, 
+      "nome": "MARGARET HAMILTON", 
+      "descricao": "Cientista da computação, engenheira de sistemas e empresária estadunidense ", 
+      "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+
+    },
+    {
+        "id": 6, 
+      "nome": "RADIA PERLMAN", 
+      "descricao": "Cientista da computação estadunidense Sua invenção mais conhecida é Spanning Tree Protocol ", 
+      "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+    },
+    {
+        "id": 7, 
+      "nome": "CLÁUDIA MARIA BAUZER MEDEIROS", 
+      "descricao": "Doutora em Ciência da Computação Cláudia foi presidente da Sociedade Brasileira de Computação de 2004 a 2007. ", 
+      "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+    },
+    {
+        "id": 8, 
+      "nome": "DILMA M. DA SILVA", 
+      "descricao": "Ph.D em Ciência da Computação Destaque no comando do grupo de pesquisa avançada de Sistemas Operacionais da IBM em Nova Iorque.", 
+      "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+    },
+    {
+        "id": 9, 
+      "nome": "CLARISSE SIECKENIUS DE SOUZA", 
+      "descricao": "Originalmente da área de Linguística, Clarisse pesqusou Linguística Computacional ", 
+      "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+    },
+    {
+        "id": 10, 
+      "nome": "GRACE HOPPER", 
+      "descricao": "Cientista da computação norte americana e Contra-almirante da Marinha dos Estados Unidos.Uma das primeiras programadoras do computador Harvard Mark I em 1944", 
+      "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+    }
+
+  ] 
+
